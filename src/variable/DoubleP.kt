@@ -1,0 +1,4 @@
+package variable
+
+class DoubleP {
+}
