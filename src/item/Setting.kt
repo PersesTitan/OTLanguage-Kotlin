@@ -1,0 +1,5 @@
+package item
+
+class Setting {
+
+}
